@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Tony Kurian — Full Stack Developer",
+  title: "Tony Kurian Portfolio",
   description: "Tony Kurian — Full Stack Developer specializing in Python, Django, FastAPI and React. Kerala, India.",
 };
 
