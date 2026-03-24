@@ -45,11 +45,11 @@ const certificationsData = [
 
 const projectOverview = {
     caseStudies: [
-        { name: "Stock Helper", url: "#" },
-        { name: "Paper Trading Simulator", url: "#" },
+        { name: "Stock Helper", url: "https://github.com/tonykurian96-source/Stock-Helper-Stock-Market-Analysis-Platform" },
+        { name: "Paper Trading Simulator", url: "https://github.com/tonykurian96-source/trading-simulator" },
     ],
     sideProjects: [
-        { name: "Men's Store — E-commerce", url: "#" },
+        { name: "Men's Store — E-commerce", url: "https://github.com/tonykurian96-source/Men-s-Store-E-commerce-Web-Application-" },
         { name: "REST API with FastAPI", comingSoon: true },
         { name: "React Dashboard", comingSoon: true },
         { name: "Portfolio Website", comingSoon: true },

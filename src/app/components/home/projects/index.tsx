@@ -6,7 +6,7 @@ const Projects = () => {
         {
             title: "Stock Helper",
             subtitle: "Stock Market Analysis Platform",
-            github: "https://github.com/tonykurian13", 
+            github: "https://github.com/tonykurian96-source/Stock-Helper-Stock-Market-Analysis-Platform", 
             bulletPoints: [
                 "Built a web application using Python and Django to analyze and monitor real-time stock market data.",
                 "Incorporated external financial APIs to retrieve live stock prices and historical market information.",
@@ -17,7 +17,7 @@ const Projects = () => {
         {
             title: "Men’s Store",
             subtitle: "E-commerce Web Application",
-            github: "https://github.com/tonykurian13", 
+            github: "https://github.com/tonykurian96-source/Men-s-Store-E-commerce-Web-Application-", 
             bulletPoints: [
                 "Engineered an e-commerce platform supporting product catalog management, shopping cart functionality, and order processing.",
                 "Structured backend database models and application logic using Django and MongoDB.",
@@ -28,7 +28,7 @@ const Projects = () => {
         {
             title: "Paper Trading Simulator",
             subtitle: "Full Stack Web Application",
-            github: "https://github.com/tonykurian13", 
+            github: "https://github.com/tonykurian96-source/trading-simulator", 
             bulletPoints: [
                 "Built a full-stack paper trading application that allows users to practice stock trading with virtual funds and real-time market data.",
                 "Developed REST APIs using FastAPI and SQLAlchemy to manage portfolios, trades, and transaction history.",
